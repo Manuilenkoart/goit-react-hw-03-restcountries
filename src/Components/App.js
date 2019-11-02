@@ -5,7 +5,7 @@ import 'react-toastify/dist/ReactToastify.css';
 import fetchApi from '../Components/service/fetchApi';
 import Country from './Country';
 import Countries from './Countries';
-
+import css from './App.module.css';
 class App extends Component {
   state = {
     query: '',
@@ -47,7 +47,10 @@ class App extends Component {
   render() {
     const { query, countries } = this.state;
     return (
-      <div>
+      <div className={css.container}>
+        <h3>
+          Search by country name. It can be the native name or partial name
+        </h3>
         <form>
           <input
             type="text"

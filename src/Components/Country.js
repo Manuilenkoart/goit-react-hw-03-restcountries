@@ -3,10 +3,10 @@ import uuidv1 from 'uuid';
 import css from './Country.module.css';
 const Country = ({ item }) => {
   return (
-    <>
-      <p>Сapital:{item.capital}</p>
+    <div>
+      <p>Сapital: {item.capital}</p>
       <img src={item.flag} className={css} alt="coutry flag" />
-      <p>Population:{item.population}</p>
+      <p>Population: {item.population}</p>
       <p>Languages:</p>
       <ul>
         {item.languages.map(el => (
@@ -14,7 +14,7 @@ const Country = ({ item }) => {
         ))}
       </ul>
       <p></p>
-    </>
+    </div>
   );
 };
 export default Country;
