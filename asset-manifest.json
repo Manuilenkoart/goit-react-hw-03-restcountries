@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-03-restcountries/static/css/main.bd56d7da.chunk.css",
-    "main.js": "/goit-react-hw-03-restcountries/static/js/main.10f71b97.chunk.js",
-    "main.js.map": "/goit-react-hw-03-restcountries/static/js/main.10f71b97.chunk.js.map",
+    "main.css": "/goit-react-hw-03-restcountries/static/css/main.bed503a7.chunk.css",
+    "main.js": "/goit-react-hw-03-restcountries/static/js/main.b1bde410.chunk.js",
+    "main.js.map": "/goit-react-hw-03-restcountries/static/js/main.b1bde410.chunk.js.map",
     "runtime-main.js": "/goit-react-hw-03-restcountries/static/js/runtime-main.3244bc66.js",
     "runtime-main.js.map": "/goit-react-hw-03-restcountries/static/js/runtime-main.3244bc66.js.map",
     "static/css/2.5dbdccff.chunk.css": "/goit-react-hw-03-restcountries/static/css/2.5dbdccff.chunk.css",
-    "static/js/2.90ab7b22.chunk.js": "/goit-react-hw-03-restcountries/static/js/2.90ab7b22.chunk.js",
-    "static/js/2.90ab7b22.chunk.js.map": "/goit-react-hw-03-restcountries/static/js/2.90ab7b22.chunk.js.map",
+    "static/js/2.21fa7326.chunk.js": "/goit-react-hw-03-restcountries/static/js/2.21fa7326.chunk.js",
+    "static/js/2.21fa7326.chunk.js.map": "/goit-react-hw-03-restcountries/static/js/2.21fa7326.chunk.js.map",
     "index.html": "/goit-react-hw-03-restcountries/index.html",
-    "precache-manifest.9f09075027fe94d8f8ff528755378dee.js": "/goit-react-hw-03-restcountries/precache-manifest.9f09075027fe94d8f8ff528755378dee.js",
+    "precache-manifest.b0d2e1cc994364751b1ce73726f41ad5.js": "/goit-react-hw-03-restcountries/precache-manifest.b0d2e1cc994364751b1ce73726f41ad5.js",
     "service-worker.js": "/goit-react-hw-03-restcountries/service-worker.js",
     "static/css/2.5dbdccff.chunk.css.map": "/goit-react-hw-03-restcountries/static/css/2.5dbdccff.chunk.css.map",
-    "static/css/main.bd56d7da.chunk.css.map": "/goit-react-hw-03-restcountries/static/css/main.bd56d7da.chunk.css.map"
+    "static/css/main.bed503a7.chunk.css.map": "/goit-react-hw-03-restcountries/static/css/main.bed503a7.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.3244bc66.js",
     "static/css/2.5dbdccff.chunk.css",
-    "static/js/2.90ab7b22.chunk.js",
-    "static/css/main.bd56d7da.chunk.css",
-    "static/js/main.10f71b97.chunk.js"
+    "static/js/2.21fa7326.chunk.js",
+    "static/css/main.bed503a7.chunk.css",
+    "static/js/main.b1bde410.chunk.js"
   ]
 }

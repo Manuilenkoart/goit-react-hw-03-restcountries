@@ -1,0 +1,1 @@
+{"version":3,"sources":["Country.module.css","App.module.css"],"names":[],"mappings":"AAAA,IACE,WACF,CCFA,sBACE,YAAa,CACb,qBAAsB,CACtB,kBACF","file":"main.bed503a7.chunk.css","sourcesContent":["img {\r\n  width: 100px;\r\n}\r\n",".container {\r\n  display: flex;\r\n  flex-direction: column;\r\n  align-items: center;\r\n}\r\n"]}
