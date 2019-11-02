@@ -49,7 +49,12 @@ class App extends Component {
     return (
       <div>
         <form>
-          <input type="text" value={query} onChange={this.handleChange} />
+          <input
+            type="text"
+            value={query}
+            onChange={this.handleChange}
+            placeholder="Search country... "
+          />
         </form>
 
         {countries.length <= 10 && <Countries items={countries} />}

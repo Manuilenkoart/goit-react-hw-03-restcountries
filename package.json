@@ -19,7 +19,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://Manuilenkoart.github.io/goit-react-hw-03-restcountries",
+  "homepage": "https://manuilenkoart.github.io/goit-react-hw-03-restcountries",
   "eslintConfig": {
     "extends": "react-app"
   },
