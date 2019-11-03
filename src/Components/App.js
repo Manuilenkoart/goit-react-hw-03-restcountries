@@ -24,8 +24,8 @@ class App extends Component {
 
   fetchCounrties = debaunce(async () => {
     const { query, countries } = this.state;
+
     if (!query) {
-      this.notifyError();
       return;
     }
     try {
